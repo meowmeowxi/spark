@@ -1,3 +1,4 @@
+好多open，简以记之
 ### 1. OpenCV
 ### 2. OpenGL
 ### 3. OpenAI
